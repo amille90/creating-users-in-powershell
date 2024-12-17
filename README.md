@@ -1,15 +1,9 @@
-# creating-users-in-powershell
-
-
-
-
-
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Creating Users With Powershell</h1>
+This second half of the tutorial/project will outline and explain how to create additional users in Powershell_ise as an administrator.<br />
 
 
 <h2>Video Demonstration</h2>
